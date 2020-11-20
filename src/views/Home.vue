@@ -17,8 +17,8 @@
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-vue/dist/bootstrap-vue.css";
 import Vue from "vue";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
+import Header from "@/components/Header.vue";
+import Footer from "@/components/Footer.vue";
 
 export default Vue.extend({
   name: "Home",

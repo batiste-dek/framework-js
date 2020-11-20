@@ -2,11 +2,11 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 
-import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
-Vue.use(IconsPlugin)
+import { BootstrapVue, IconsPlugin } from "bootstrap-vue";
+Vue.use(IconsPlugin);
 
 // Install BootstrapVue
-Vue.use(BootstrapVue)
+Vue.use(BootstrapVue);
 
 Vue.config.productionTip = false;
 

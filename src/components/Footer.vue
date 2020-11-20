@@ -16,7 +16,7 @@ import "bootstrap-vue/dist/bootstrap-vue.css";
 import Vue from "vue";
 
 export default Vue.extend({
-  name: "Footer",
+  name: "Footer"
 });
 </script>
 
